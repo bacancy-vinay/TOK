@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93850483871",
+    "firebase_url": "https://tok-chat-7aecf.firebaseio.com",
+    "project_id": "tok-chat-7aecf",
+    "storage_bucket": "tok-chat-7aecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93850483871:android:78a889f3fc16b7c44af6aa",
+        "android_client_info": {
+          "package_name": "com.example.tok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93850483871-cb1ktpefpnrrppml5et06i5s72bp62pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tok",
+            "certificate_hash": "93503d1e04e0b71b580e88d9104a7f8366ad07cd"
+          }
+        },
+        {
+          "client_id": "93850483871-8hm69poc8sikchf6p1212ga8cpc2aj53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhx5jWt72XscDIIva70RKOVg_MFUEIUv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93850483871-8hm69poc8sikchf6p1212ga8cpc2aj53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
